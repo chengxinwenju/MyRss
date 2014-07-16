@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">我的Rss</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_news_detail">新闻详情</string>
+    <string name="more">更多</string>
+    <string name="title_activity_subscription">订阅管理</string>
+
+</resources>
